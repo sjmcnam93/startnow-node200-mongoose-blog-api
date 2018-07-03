@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js",
-    "test": "mocha test/**/*.spec.js --exit",
+    "test": "mocha test/**/*.spec.js",
     "submit": "mocha test/submission.spec.js"
   },
   "author": "",
